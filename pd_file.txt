@@ -1,2 +1,4 @@
 Autor Piotr Domagała
 Data: 24.06.2024
+Uwagi:
+1) Zmiana w pliku
